@@ -19,8 +19,6 @@ Data Engineer • Automation Developer • Associate Analyst @ Tech Mahindra
 </p>
 
 
-# Hi 👋, I'm Rohan Thakur
-
 ### Data Engineer • Automation Developer • Associate Analyst @ Tech Mahindra
 
 I am a Computer Science graduate and currently working as an Associate Analyst at Tech Mahindra for Parker Hannifin. I specialize in enterprise automation, workflow optimization, backend development, and scalable data-driven solutions.
